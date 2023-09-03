@@ -1,1 +1,1 @@
-Jupyter nodebook url : https://binder.rc.nectar.org.au/user
+Jupyter nodebook url : https://binder.rc.nectar.org.au/
